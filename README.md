@@ -1,7 +1,7 @@
 # Dimensionality Reduction 
  
 
-# README: Machine Learning Project
+Machine Learning Project
 
 ## Project Overview
 This project analyzes the dataset of Knesset elections in Israel, where each row represents a ballot box (קלפי). The analysis includes clustering cities based on voting patterns and identifying relationships between voting tendencies for different political parties. The project implements dimensionality reduction techniques and provides an interactive user interface for data visualization using Streamlit.
