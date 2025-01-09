@@ -84,5 +84,5 @@ For any issues or inquiries, please contact the project developer.
 
 Thank you for exploring this project! Feel free to contribute or provide feedback.
 
-## Authors:
+## Author:
 Mori Sason
